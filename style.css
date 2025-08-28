@@ -1,0 +1,15 @@
+
+body{padding-left: 450px;
+    background-image: url(/image/food.jpg);
+     background-size:1000px}
+h3{color: rgb(0, 0, 0);}
+
+h4{color: rgb(0, 0, 0);}
+
+li{color: rgb(0, 0, 0);
+size-adjust: 200%;}
+
+img{width:250px;
+height:125px;}
+
+h1{font-size: xx-large;}
